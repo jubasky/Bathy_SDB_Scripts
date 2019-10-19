@@ -1,0 +1,20 @@
+long =32 bits  window
+
+long em linux pode ser 32 ou 64  !!!
+
+uint64_t  (tipos sólidos)
+
+
+profundidades  passar a resolução de 1 mm ???
+
+Não tem custos adicionais  !!
+
+ 
+
+ATENÇÃO !!! para rgb  8 bits chegam 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+exportação :ascii para totos
+binario (estrututa xyz ou xyz R RGB)
+eventualmente LASZIP1111

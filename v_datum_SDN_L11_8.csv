@@ -1,0 +1,34 @@
+D11,mean sea level,1
+D32,Portuguese Chart Datum,2
+D08,sea level,3
+D22,local reference plane,4
+D16,mean high water springs,5
+D15,mean low water springs,6
+D18,mean high water neaps,7
+D17,mean low water neaps,8
+D12,mean low water,9
+D13,mean high water,10
+D10,ground level,11
+D09,sea floor,12
+D99,inapplicable,13
+D20,Ordnance Datum Newlyn,14
+D21,Danish Vertical Reference 1990,15
+D24,Malin Ordnance Datum,16
+D07,French Naval Chart Datum,17
+D06,Bulgarian Navy Hydrographic Service Chart Datum,18
+D25,Poolbeg Ordnance Datum,19
+D05,Hellenic Navy Hydrographic Service Chart Datum,20
+D23,Belfast Ordnance Datum,21
+D04,UK Admiralty Chart Datum,22
+D03,unspecified chart datum,23
+D28,Reseau Geodesique Francais 80,24
+D02,Highest Astronomical Tide,25
+D29,Reseau Geodesique Francais 93,26
+D01,Lowest Astronomical Tide,27
+D26,Swedish national coordinate system,28
+D27,Helsinki Tide Gauge Datum,29
+D19,Normaal Amsterdams Peil,30
+D30,French Naval Chart Datum for Lebanon,31
+D31,Spanish Chart Datum,32
+D14,Rijkswaterstaat mean sea level,33
+UKN,unknown,34

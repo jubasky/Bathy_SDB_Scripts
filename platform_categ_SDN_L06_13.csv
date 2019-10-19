@@ -1,0 +1,80 @@
+44, drifting subsurface float
+45, fixed subsurface vertical profiler
+46, drifting subsurface profiling float
+47, float
+48, mooring
+49, surface ice buoy
+3Z, surface vessel
+90, cryosphere
+91, ice island
+92, ice shelf
+93, pack ice
+50, buoyant aircraft
+94, drift ice
+95, amphibious vehicle
+51, free-rising balloon
+96, amphibious crawler
+52, free-floating balloon
+53, tethered balloon
+54, airship
+10, land or seafloor
+11, fixed benthic node
+12, sea bed vehicle
+13, beach/intertidal zone structure
+14, land/onshore structure
+15, land/onshore vehicle
+16, offshore structure
+17, coastal structure
+18, river station
+9A, DUKW
+19, mesocosm bag
+9B, hovercraft
+00, unknown
+60, non-buoyant aircraft
+61, research aeroplane
+62, aeroplane
+63, rocket
+64, geostationary orbiting satellite
+20, submersible
+65, orbiting satellite
+21, propelled manned submersible
+66, manned spacecraft
+22, propelled unmanned submersible
+67, helicopter
+23, towed unmanned submersible
+24, drifting manned submersible
+68, satellite
+69, autogyro
+25, autonomous underwater vehicle
+26, lowered unmanned submersible
+27, sub-surface gliders
+6A, glider
+6B, kite
+6C, parachute
+6D, unmanned aerial vehicle"  shortLabel="UA
+70, organism
+71, human
+72, diver
+73, flightless bird
+74, seabird and duck
+30, ship
+75, cetacean
+31, research vessel
+76, fish
+32, vessel of opportunity
+77, land-sea mammals
+33, self-propelled small boat
+34, vessel at fixed position
+35, vessel of opportunity on fixed route
+36, fishing vessel
+37, self-propelled boat
+6Z, spacecraft
+38, man-powered boat
+39, naval vessel
+3A, man-powered small boat
+3B, autonomous surface water vehicle
+3C, surface gliders
+3D, drillship
+41, moored surface buoy
+42, drifting surface float
+43, subsurface mooring

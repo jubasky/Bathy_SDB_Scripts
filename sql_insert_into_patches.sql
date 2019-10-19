@@ -1,0 +1,1 @@
+﻿INSERT INTO patches (pa, cdi) SELECT PC_Patch (pt), -99 FROM pc_points group by st_snaptogrid(pt::geometry, -88, -88);

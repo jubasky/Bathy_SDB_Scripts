@@ -1,0 +1,244 @@
+﻿LAB11,high performance liquid chromatographs
+MOD01,Global models
+LAB10,atomic absorption spectrometers
+LAB13,balances and scales
+LAB12,titrators
+MOD04,Ocean models
+MOD05,Coupled models
+MOD02,Regional models
+MOD03,Atmosphere models
+MOD08,Biological and biogeochemical models
+ARAG,airgun array
+MOD06,Meteorological models
+MOD07,Physical oceanographic models
+350,salinity sensor
+351,dissolved gas sensors
+352,plankton counters
+110,wave recorders
+353,active fluorometers
+111,sea level recorders
+354,expendable CTDs
+112,inverted echosounders
+113,fluorometers
+355,pH sensors
+114,current meters
+356,redox potential sensors
+357,acoustic tracking systems
+115,current profilers
+358,bubble detectors
+116,lowered current profilers
+359,plummets
+LAB19,gas chromatograph mass spectrometers
+LAB18,nuclear magnetic resonance spectrometers
+LAB15,inductively-coupled plasma mass spectrometers
+LAB14,inductively-coupled plasma atomic emission spectroscopes
+LAB17,accelerator mass spectrometers
+LAB16,mass spectrometers
+11,discrete air samplers
+LAB22,gamma-ray spectrometers
+12,fog samplers
+LAB21,liquid scintillation counters
+13,aerosol samplers
+LAB24,gel permeation chromatographs
+LAB23,bench fluorometers
+14,precipitation samplers
+LAB20,spectrophotometers
+360,piezometers
+361,penetrometers
+362,250 Hz top-bandwidth single-channel seismic reflection systems
+363,1000 Hz top-bandwidth single-channel seismic reflection systems
+121,satellite tracking system
+364,1000 Hz top-bandwidth multi-channel seismic reflection systems
+122,radiometers
+365,2000 Hz top-bandwidth multi-channel seismic reflection systems
+AQPL,Aquapulse
+123,optical backscatter sensors
+366,2000 Hz top-bandwidth multi-channel seismic reflection systems
+124,transmissometers
+367,2000 Hz top-bandwidth sub-bottom penetrator and mud profiler systems
+368,seismometers
+369,hydrophones
+LAB29,rulers
+LAB26,X-ray diffractometers
+LAB25,X-ray fluorescence analysers
+LAB28,thermal conductivimeters
+LAB27,particle sizers
+21,plankton recorders
+22,plankton nets
+23,pelagic trawl nets
+24,benthos samplers
+LBTG,labelling tags
+370,geothermometers
+371,60 Hz top-bandwidth single-channel seismic reflection systems
+SNWG,watergun
+372,2000 Hz top-bandwidth single-channel seismic reflection systems
+130,CTD
+373,2000 Hz top-bandwidth single-channel seismic reflection systems
+131,CTD undulators
+374,60 Hz top-bandwidth multi-channel seismic reflection systems
+VSHC,Vaporchoc
+132,bathythermographs
+375,250 Hz top-bandwidth multi-channel seismic reflection systems
+133,thermosalinographs
+376,sediment surface markers
+134,water temperature sensor
+135,thermistor chains
+377,water level markers
+378,sediment profile imagers
+379,altimeters
+CCOV,cloud cover quantifiers
+30,discrete water samplers
+31,continuous water samplers
+32,particulates samplers
+33,sediment traps
+FLXS,Flexichoc
+FLXT,Flexotir
+LAB02,gas chromatographs
+LAB01,elemental analysers
+380,submarine cables
+381,precipitation gauges
+382,atmospheric gas analysers
+383,metal analysers
+384,ADVs and turbulence probes
+385,platform attitude sensors
+386,Aerosol physical characterisers
+387,Aethalometers
+388,flow meters
+LAB08,electron microprobes
+LAB07,electron microscopes
+LAB09,ion microprobes
+LAB04,autoanalysers
+LAB03,colorimeters
+LAB06,fluorescence microscopes
+LAB05,optical microscopes
+150,particle sizers
+151,benthic incubation chambers
+152,sidescan sonars
+153,single-channel seismic reflection systems
+154,multi-channel seismic reflection systems
+155,seismic refraction systems
+156,single-beam echosounders
+157,multi-beam echosounders
+SBAG,single-bubble airgun
+158,gravimeters
+159,magnetometers
+50,sediment grabs
+WPS,water pressure sensors
+51,unconsol
+52,sediment porewater samplers
+53,rock corers
+54,rock dredges
+55,sediment settling tubes
+56,snow and ice samplers
+57,manual rock samplers
+58,continuous air samplers
+59,sampling extent markers
+GIAG,GI-gun
+BOMR,Boomer
+PERMON,Performance monitors
+60,sediment dredges
+61,demersal trawl nets
+TFSAMP,thin film metal samplers
+62,beam trawls
+63,passive fishing gear
+64,active fishing gear
+65,gill nets
+66,flushing drills
+LAB33,laboratory autosamplers
+LAB32,acoustic velocity systems
+67,high-speed plankton samplers
+68,multinet
+LAB35,voltammetry analysers
+LAB34,chemiluminescence analysers
+69,neuston net
+LAB31,magnetic susceptibility systems
+LAB30,salinometers
+EXHL,high resolution low penetration explosives
+LAB37,flow cytometers
+LAB36,flow injection analysers
+LAB39,Geiger counters
+LAB38,cavity enhanced absorption spectrometers
+LAB44,refractometers
+LAB43,plate readers
+LAB46,proton transfer reaction mass spectrometers
+LAB45,ion chromatography analysers
+LAB40,Volume measures
+LAB42,laboratory optical rangefinders
+LAB41,laboratory cameras
+180,underwater cameras
+181,nutrient analysers
+182,inapplicable
+183,acoustic backscatter sensors
+184,microstructure sensors
+MMIS,multi-frame imaging sonar
+185,sound velocity sensors
+186,radar altimeters
+81,shipboard incubators
+82,in-situ incubators
+83,centrifuges
+LAB48,isotope ratio mass spectrometers
+84,sieves and filters
+85,biorectors and chemostats
+LAB47,thermal ionisation mass spectrometers
+CSEM,controlled-source electromagnetic systems
+COLCMP,Colour comparators
+90,manual biota samplers
+91,observers
+92,meteorological LiDARs
+999,unknown
+EMSR,elecromagnetic sensors
+FFES,Fish-finder echosounders
+EXLH,high penetration low resolution explosives
+NATS,natural source
+TRTG,tracking tags
+ATRANS,atmospheric transparency quantifiers
+ICEP,ice thickness profilers
+SPRK,Sparker
+301,satellite positioning systems
+302,water body temperature sensor
+303,surface current radars
+304,ocean colour radiometers
+305,scatterometers
+306,synthetic aperture radars
+307,accelerometers
+308,atmospheric radiometers
+CHRP,Chirp
+309,terrestrial radiometers
+310,laser altimeters
+311,cameras
+312,bathymetric LiDARs
+313,bird detection radars
+MVBR,marine vibroseis
+POS08,Decca Navigator System HiFix receivers
+POS09,Toran receivers
+POS04,Differential Global Positioning System receivers
+POS05,Long Range Navigation version C receivers
+POS06,Marine chronometers
+POS07,Sextants
+POS01,Decca Navigator System main chain receivers
+POS02,Global Navigation Satellite System receivers
+POS03,NAVSTAR Global Positioning System receivers
+ERTQ,earthquake
+POS19,inertial navigation systems
+POS15,Omega receivers
+POS16,Argos GPS-localised transmitters
+POS17,Argos doppler-localised transmitters
+POS18,Navy Navigation Satellite System receivers
+POS11,Trident receivers
+POS12,Système leger de measure de distance receivers
+POS13,Rana receivers
+POS14,Pulse8 receivers
+POS10,Automatic Ranging Grid Overlay DM 54 receivers
+SNAG,airgun
+101,anemometers
+102,meteorological packages
+POS26,Ultra Short Baseline Positioning Systems
+BLUMS,bioluminescence sensors
+103,radiosondes
+POS22,Trisponder navigation systems
+POS23,radio tracking systems
+POS24,dead reckoning
+POS25,Kinematic Global Positioning System receivers
+POS20,Motorola Mini-Ranger receivers
+EQUIL,equilibrators
+POS21,Hyperfix receivers

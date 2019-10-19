@@ -1,0 +1,111 @@
+4326, WGS84, 0
+3763, ETRS89/ PT-TM06,1
+27493, Datum 73/ Hayford-Gauss,2
+5018, Datum Lisboa/ Hayford-Gauss,8
+20791, Lisbon (Lisbon)/Hayford-Gauss,4
+20790, Lisbon (Lisbon)/Hayford-Gauss Militares,5
+4936, ETRS89/ Coordenadas Geocentricas,6
+4274, Datum 73 2D,7
+4207, Lisbon  2D,8
+5011, ITRF93/ Coordenadas Geocentricas,9
+5012, ITRF93/ Coordenadas Geograficas 3D,10
+5013, ITRF93/ Coordenadas Geograficas 2D,11
+5014, ITRF93/ PTRA08 - UTM zona 25N - G.Oc. Acores,12
+5015, ITRF93/ PTRA08 - UTM zona 26N - G. Ct e Or. Acores,13
+5016, ITRF93/ PTRA08 - UTM zona 28N  Madeira Pt Santo Desert. Selv.,14
+2943, Selvagem Grande / UTM zone 28N,15
+2942, Porto Santo / UTM zone 28N,16
+32626, World Geodetic System 84 / UTM zone 26N,17
+32627, World Geodetic System 84 / UTM zone 27N,18
+32628, World Geodetic System 84 / UTM zone 28N,19
+32629, World Geodetic System 84 / UTM zone 29N,20
+32630, World Geodetic System 84 / UTM zone 30N,21
+32631, World Geodetic System 84 / UTM zone 31N,22
+32632, World Geodetic System 84 / UTM zone 32N,23
+32633, World Geodetic System 84 / UTM zone 33N,24
+32634, World Geodetic System 84 / UTM zone 34N,25
+32635, World Geodetic System 84 / UTM zone 35N,26
+32636, World Geodetic System 84 / UTM zone 36N,27
+32637, World Geodetic System 84 / UTM zone 37N,28
+32638, World Geodetic System 84 / UTM zone 38N,29
+32639, World Geodetic System 84 / UTM zone 39N,30
+4979, World Geodetic System 1984 3D,31
+32600, World Geodetic System 84 / UTM grid system (northern hemisphere),32
+32661, World Geodetic System 84 / UPS North,33
+32662, World Geodetic System 84 / Plate Carree,34
+3395, World Geodetic System 84 / World Mercator,35
+4258, ETRS89,36
+3126, ETRS89 / ETRS-GK19FIN,37
+3127, ETRS89 / ETRS-GK20FIN,38
+3128, ETRS89 / ETRS-GK21FIN,39
+3129, ETRS89 / ETRS-GK22FIN,40
+3130, ETRS89 / ETRS-GK23FIN,41
+3131, ETRS89 / ETRS-GK24FIN,42
+3132, ETRS89 / ETRS-GK25FIN,43
+3133, ETRS89 / ETRS-GK26FIN,44
+3134, ETRS89 / ETRS-GK27FIN,45
+3135, ETRS89 / ETRS-GK28FIN,46
+3136, ETRS89 / ETRS-GK29FIN,47
+3137, ETRS89 / ETRS-GK30FIN,48
+3138, ETRS89 / ETRS-GK31FIN,49
+3035, ETRS89 / ETRS-LAEA,50
+3034, ETRS89 / ETRS-LCC,51
+3038, ETRS89 / ETRS-TM26,52
+3039, ETRS89 / ETRS-TM27,53
+3040, ETRS89 / ETRS-TM28,54
+3041, ETRS89 / ETRS-TM29,55
+3042, ETRS89 / ETRS-TM30,56
+3043, ETRS89 / ETRS-TM31,57
+3044, ETRS89 / ETRS-TM32,58
+3045, ETRS89 / ETRS-TM33,59
+3046, ETRS89 / ETRS-TM34,60
+3047, ETRS89 / ETRS-TM35,61
+3067, ETRS89 / ETRS-TM35FIN,62
+3048, ETRS89 / ETRS-TM36,63
+3049, ETRS89 / ETRS-TM37,64
+3050, ETRS89 / ETRS-TM38,65
+3051, ETRS89 / ETRS-TM39,66
+3145, ETRS89 / Faroe Lambert,67
+3108, ETRS89 / Guernsey Grid,68
+3109, ETRS89 / Jersey Transverse Mercator,69
+2198, ETRS89 / Kp2000 Bornholm,70
+2196, ETRS89 / Kp2000 Jutland,71
+2197, ETRS89 / Kp2000 Zealand,72
+2176, ETRS89 / Poland CS2000 zone 5,73
+2177, ETRS89 / Poland CS2000 zone 6,74
+2178, ETRS89 / Poland CS2000 zone 7,75
+2179, ETRS89 / Poland CS2000 zone 8,76
+2180, ETRS89 / Poland CS92,77
+2213, ETRS89 / TM 30 NE,78
+25884, ETRS89 / TM Baltic93,79
+25828, ETRS89 / UTM zone 28N,80
+25829, ETRS89 / UTM zone 29N,81
+25830, ETRS89 / UTM zone 30N,83
+25831, ETRS89 / UTM zone 31N,85
+25832, ETRS89 / UTM zone 32N,87
+25833, ETRS89 / UTM zone 33N,89
+25834, ETRS89 / UTM zone 34N,91
+25835, ETRS89 / UTM zone 35N,93
+25836, ETRS89 / UTM zone 36N,95
+25837, ETRS89 / UTM zone 37N,97
+25838, ETRS89 / UTM zone 38N,99
+7409, ETRS89 + EVRF2000,100
+4121, GGRS87,101
+2100, GGRS87 / Greek Grid,102
+4120, Greek,103
+4815, Greek (Athens),104
+4943, IRENET95,105
+4173, IRENET95,106
+2157, IRENET95 / Irish Transverse Mercator,107
+2158, IRENET95 / UTM zone 29N,108
+4945, ISN93,109
+4659, ISN93,110
+3057, ISN93 / Lambert 1993,111
+4743, Karbala 1979 (Polservice),112
+4803, Lisbon (Lisbon),113
+3346, LKS94 / Lithuania TM,114
+4903, Madrid 1870 (Madrid),115
+2062, Madrid 1870 (Madrid) / Spain,116
+4261, Merchich,117
+26191, Merchich / Nord Maroc,118
+26192, Merchich / Sud Maroc,119

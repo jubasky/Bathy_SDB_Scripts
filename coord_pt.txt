@@ -1,0 +1,6 @@
+3763 (ETRS89/ PT-TM06)
+5018 (Datum Lisboa/ Hayford-Gauss)
+27493 (Datum 73/ Hayford-Gauss)
+20790 (Datum Lisboa/ Hayford-Gauss Militares)
+4936 (ETRS89/ Coordenadas Geocêntricas)
+

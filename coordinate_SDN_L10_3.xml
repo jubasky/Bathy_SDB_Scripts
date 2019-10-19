@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary list="SDN:L10:3:"  version="3"  date="2011-03-03T02:00:05.000"  title="SeaDataNet geographic co-ordinate reference frames" >
+   <element  key="SDN:L10::2210"  label="ED50 / 3-degree Gauss-Kruger zone 13"  shortLabel="EPSG:2210(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2209"  label="ED50 / 3-degree Gauss-Kruger zone 12"  shortLabel="EPSG:2209(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2208"  label="ED50 / 3-degree Gauss-Kruger zone 11"  shortLabel="EPSG:2208(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2207"  label="ED50 / 3-degree Gauss-Kruger zone 10"  shortLabel="EPSG:2207(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2206"  label="ED50 / 3-degree Gauss-Kruger zone 9"  shortLabel="EPSG:2206(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::30493"  label="Voirol 1879 / Nord Algerie (ancienne)"  shortLabel="EPSG:30493(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::30492"  label="Voirol 1875 / Sud Algerie (ancienne)"  shortLabel="EPSG:30492(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::30494"  label="Voirol 1879 / Sud Algerie (ancienne)"  shortLabel="EPSG:30494(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::29903"  label="TM75 / Irish Grid"  shortLabel="EPSG:29903(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::29902"  label="TM65 / Irish Grid"  shortLabel="EPSG:29902(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::29901"  label="OSNI 1952 / Irish National Grid"  shortLabel="EPSG:29901(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2943"  label="Selvagem Grande / UTM zone 28N"  shortLabel="EPSG:2943(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2942"  label="Porto Santo / UTM zone 28N"  shortLabel="EPSG:2942(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::30491"  label="Voirol 1875 / Nord Algerie (ancienne)"  shortLabel="EPSG:30491(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2212"  label="ED50 / 3-degree Gauss-Kruger zone 15"  shortLabel="EPSG:2212(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::27492"  label="Datum 73 / Modified Portuguese Grid"  shortLabel="EPSG:27492(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2211"  label="ED50 / 3-degree Gauss-Kruger zone 14"  shortLabel="EPSG:2211(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2213"  label="ETRS89 / TM 30 NE"  shortLabel="EPSG:2213(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3399"  label="RD/83 / 3-degree Gauss zone 5"  shortLabel="EPSG:3399(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2100"  label="GGRS87 / Greek Grid"  shortLabel="EPSG:2100(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2964"  label="NAD27 / Alaska Albers"  shortLabel="EPSG:2964(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::27392"  label="NGO 1948 (Oslo) / NGO zone II"  shortLabel="EPSG:27392(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2963"  label="Lisbon 1890 (Lisbon) / Portugal Bonne"  shortLabel="EPSG:2963(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::27391"  label="NGO 1948 (Oslo) / NGO zone I"  shortLabel="EPSG:27391(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::27398"  label="NGO 1948 (Oslo) / NGO zone VIII"  shortLabel="EPSG:27398(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::27397"  label="NGO 1948 (Oslo) / NGO zone VII"  shortLabel="EPSG:27397(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::27394"  label="NGO 1948 (Oslo) / NGO zone IV"  shortLabel="EPSG:27394(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::27393"  label="NGO 1948 (Oslo) / NGO zone III"  shortLabel="EPSG:27393(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::27396"  label="NGO 1948 (Oslo) / NGO zone VI"  shortLabel="EPSG:27396(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::21500"  label="Belge 1950 (Brussels) / Belge Lambert 50"  shortLabel="EPSG:21500(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::27395"  label="NGO 1948 (Oslo) / NGO zone V"  shortLabel="EPSG:27395(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::26940"  label="NAD83 / Alaska zone 10"  shortLabel="EPSG:26940(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3386"  label="KKJ / Finland zone 0"  shortLabel="EPSG:3386(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3387"  label="KKJ / Finland zone 5"  shortLabel="EPSG:3387(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4971"  label="Réunion RGR92 Réseau géodésique de la Réunion"  shortLabel="RGR92(3D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::20005"  label="Pulkovo 1995 / Gauss-Kruger zone 5"  shortLabel="EPSG:20005(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::20004"  label="Pulkovo 1995 / Gauss-Kruger zone 4"  shortLabel="EPSG:20004(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4967"  label="Guyane RGFG95 Réseau géodésique français de Guyane"  shortLabel="RGFG95(3D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::26192"  label="Merchich / Sud Maroc"  shortLabel="EPSG:26192(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4965"  label="RGF93"  shortLabel="RGF93(3D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::26191"  label="Merchich / Nord Maroc"  shortLabel="EPSG:26191(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3109"  label="ETRS89 / Jersey Transverse Mercator"  shortLabel="EPSG:3109(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3108"  label="ETRS89 / Guernsey Grid"  shortLabel="EPSG:3108(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::20007"  label="Pulkovo 1995 / Gauss-Kruger zone 7"  shortLabel="EPSG:20007(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::20006"  label="Pulkovo 1995 / Gauss-Kruger zone 6"  shortLabel="EPSG:20006(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::20008"  label="Pulkovo 1995 / Gauss-Kruger zone 8"  shortLabel="EPSG:20008(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3390"  label="Pulkovo 1995 / 3-degree Gauss-Kruger zone 60"  shortLabel="EPSG:3390(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::27037"  label="Nahrwan 1967 / UTM zone 37N"  shortLabel="EPSG:27037(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3397"  label="PD/83 / 3-degree Gauss zone 4"  shortLabel="EPSG:3397(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3398"  label="RD/83 / 3-degree Gauss zone 4"  shortLabel="EPSG:3398(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3395"  label="World Geodetic System 84 / World Mercator"  shortLabel="EPSG:3395(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3396"  label="PD/83 / 3-degree Gauss zone 3"  shortLabel="EPSG:3396(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3393"  label="Karbala 1979 (Polservice) / UTM zone 39N"  shortLabel="EPSG:3393(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3394"  label="Nahrwan 1934 / Iraq zone"  shortLabel="EPSG:3394(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3391"  label="Karbala 1979 (Polservice) / UTM zone 37N"  shortLabel="EPSG:3391(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3392"  label="Karbala 1979 (Polservice) / UTM zone 38N"  shortLabel="EPSG:3392(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4977"  label="SWEREF99"  shortLabel="SWEREF99(3D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::25884"  label="ETRS89 / TM Baltic93"  shortLabel="EPSG:25884(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3389"  label="Pulkovo 1942 / 3-degree Gauss-Kruger zone 60"  shortLabel="EPSG:3389(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4979"  label="World Geodetic System 1984 3D"  shortLabel="WGS84(3D)"  date="2007-02-09T09:02:56.000"  />
+   <element  key="SDN:L10::27429"  label="Datum 73 / UTM zone 29N"  shortLabel="EPSG:27429(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3355"  label="Egypt Gulf of Suez S-650 TL / Red Belt"  shortLabel="EPSG:3355(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4987"  label="World Geodetic System 72BE"  shortLabel="WGS 72BE(3D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4985"  label="World Geodetic System 72"  shortLabel="WGS 72(3D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::20791"  label="Lisbon (Lisbon)/Portuguese Grid"  shortLabel="EPSG:20791(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::20790"  label="Lisbon (Lisbon)/Portuguese National Grid"  shortLabel="EPSG:20790(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4983"  label="IGM95"  shortLabel="IGM95(3D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::27564"  label="NTF (Paris) / Lambert Corse"  shortLabel="EPSG:27564(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::27562"  label="NTF (Paris) / Lambert Centre France"  shortLabel="EPSG:27562(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::27563"  label="NTF (Paris) / Lambert Sud France"  shortLabel="EPSG:27563(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::27561"  label="NTF (Paris) / Lambert Nord France"  shortLabel="EPSG:27561(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3374"  label="FD54 / UTM zone 29N"  shortLabel="EPSG:3374(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::27573"  label="NTF (Paris) / Lambert zone III"  shortLabel="EPSG:27573(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::27574"  label="NTF (Paris) / Lambert zone IV"  shortLabel="EPSG:27574(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::27571"  label="NTF (Paris) / Lambert zone I"  shortLabel="EPSG:27571(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::27572"  label="NTF (Paris) / Lambert zone II"  shortLabel="EPSG:27572(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::32428"  label="World Geodetic System 72BE / UTM zone 28N"  shortLabel="EPSG:32428(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2647"  label="Pulkovo 1995 / 3-degree Gauss-Kruger zone 13"  shortLabel="EPSG:2647(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::32427"  label="World Geodetic System 72BE / UTM zone 27N"  shortLabel="EPSG:32427(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2646"  label="Pulkovo 1995 / 3-degree Gauss-Kruger zone 12"  shortLabel="EPSG:2646(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::32426"  label="World Geodetic System 72BE / UTM zone 26N"  shortLabel="EPSG:32426(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2645"  label="Pulkovo 1995 / 3-degree Gauss-Kruger zone 11"  shortLabel="EPSG:2645(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2644"  label="Pulkovo 1995 / 3-degree Gauss-Kruger zone 10"  shortLabel="EPSG:2644(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::27700"  label="OSGB 1936 / British National Grid"  shortLabel="EPSG:27700(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2643"  label="Pulkovo 1995 / 3-degree Gauss-Kruger zone 9"  shortLabel="EPSG:2643(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2642"  label="Pulkovo 1995 / 3-degree Gauss-Kruger zone 8"  shortLabel="EPSG:2642(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2641"  label="Pulkovo 1995 / 3-degree Gauss-Kruger zone 7"  shortLabel="EPSG:2641(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3146"  label="Pulkovo 1942 / 3-degree Gauss-Kruger zone 6"  shortLabel="EPSG:3146(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::32429"  label="World Geodetic System 72BE / UTM zone 29N"  shortLabel="EPSG:32429(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3147"  label="Pulkovo 1942 / 3-degree Gauss-Kruger CM 18E"  shortLabel="EPSG:3147(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3006"  label="SWEREF99 TM"  shortLabel="SWEREF99 TM(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3004"  label="Monte Mario / Italy zone 2"  shortLabel="EPSG:3004(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3009"  label="SWEREF99 15 00"  shortLabel="EPSG:3009(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3335"  label="Pulkovo 1942(58) / Gauss-Kruger zone 5"  shortLabel="EPSG:3335(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3007"  label="SWEREF99 12 00"  shortLabel="EPSG:3007(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2649"  label="Pulkovo 1995 / 3-degree Gauss-Kruger zone 15"  shortLabel="EPSG:2649(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3333"  label="Pulkovo 1942(58) / Gauss-Kruger zone 3"  shortLabel="EPSG:3333(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3008"  label="SWEREF99 13 30"  shortLabel="EPSG:3008(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2648"  label="Pulkovo 1995 / 3-degree Gauss-Kruger zone 14"  shortLabel="EPSG:2648(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3334"  label="Pulkovo 1942(58) / Gauss-Kruger zone 4"  shortLabel="EPSG:3334(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3013"  label="SWEREF99 15 45"  shortLabel="EPSG:3013(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4821"  label="Voirol 1879 (Paris)"  shortLabel="EPSG:4821(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3012"  label="SWEREF99 14 15"  shortLabel="EPSG:3012(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3011"  label="SWEREF99 18 00"  shortLabel="EPSG:3011(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3010"  label="SWEREF99 16 30"  shortLabel="EPSG:3010(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::27500"  label="ATF (Paris) / Nord de Guerre"  shortLabel="EPSG:27500(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::32626"  label="World Geodetic System 84 / UTM zone 26N"  shortLabel="EPSG:32626(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2650"  label="Pulkovo 1995 / 3-degree Gauss-Kruger zone 16"  shortLabel="EPSG:2650(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::32629"  label="World Geodetic System 84 / UTM zone 29N"  shortLabel="EPSG:32629(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3152"  label="ST74"  shortLabel="ST74(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3200"  label="FD58 / Iraq zone"  shortLabel="EPSG:3200(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4923"  label="PZ-90"  shortLabel="PZ-90(3D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3151"  label="Pulkovo 1995 / 3-degree Gauss-Kruger CM 18E"  shortLabel="EPSG:3151(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::32627"  label="World Geodetic System 84 / UTM zone 27N"  shortLabel="EPSG:32627(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2154"  label="RGF93 / Lambert-93"  shortLabel="EPSG:2154(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3150"  label="Pulkovo 1995 / 3-degree Gauss-Kruger zone 6"  shortLabel="EPSG:3150(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::30792"  label="Nord Sahara 1959 / Voirol Unifie Sud"  shortLabel="EPSG:30792(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::32628"  label="World Geodetic System 84 / UTM zone 28N"  shortLabel="EPSG:32628(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::30791"  label="Nord Sahara 1959 / Voirol Unifie Nord"  shortLabel="EPSG:30791(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::28192"  label="Palestine 1923 / Palestine Belt"  shortLabel="EPSG:28192(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2158"  label="IRENET95 / UTM zone 29N"  shortLabel="EPSG:2158(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::28193"  label="Palestine 1923 / Israeli CS Grid"  shortLabel="EPSG:28193(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2157"  label="IRENET95 / Irish Transverse Mercator"  shortLabel="EPSG:2157(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3135"  label="ETRS89 / ETRS-GK28FIN"  shortLabel="EPSG:3135(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2651"  label="Pulkovo 1995 / 3-degree Gauss-Kruger zone 17"  shortLabel="EPSG:2651(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3136"  label="ETRS89 / ETRS-GK29FIN"  shortLabel="EPSG:3136(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::32226"  label="World Geodetic System 72 / UTM zone 26N"  shortLabel="EPSG:32226(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3137"  label="ETRS89 / ETRS-GK30FIN"  shortLabel="EPSG:3137(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3138"  label="ETRS89 / ETRS-GK31FIN"  shortLabel="EPSG:3138(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::28191"  label="Palestine 1923 / Palestine Grid"  shortLabel="EPSG:28191(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::32228"  label="World Geodetic System 72 / UTM zone 28N"  shortLabel="EPSG:32228(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4191"  label="Albanian 1987"  shortLabel="EPSG:4191(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::32227"  label="World Geodetic System 72 / UTM zone 27N"  shortLabel="EPSG:32227(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::32229"  label="World Geodetic System 72 / UTM zone 29N"  shortLabel="EPSG:32229(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2754"  label="Pulkovo 1995 / 3-degree Gauss-Kruger CM 180E"  shortLabel="EPSG:2754(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3346"  label="LKS94 / Lithuania TM"  shortLabel="EPSG:3346(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4299"  label="TM65"  shortLabel="TM65(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::23700"  label="HD72 / EOV"  shortLabel="HD72 / EOV(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3352"  label="Pulkovo 1942 / CS63 zone C2"  shortLabel="EPSG:3352(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4937"  label="ETRS89"  shortLabel="ETRS89(3D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3351"  label="Pulkovo 1942 / CS63 zone C1"  shortLabel="EPSG:3351(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3350"  label="Pulkovo 1942 / CS63 zone C0"  shortLabel="EPSG:3350(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3145"  label="ETRS89 / Faroe Lambert"  shortLabel="EPSG:3145(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3144"  label="FD54 / Faroe Lambert"  shortLabel="EPSG:3144(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4933"  label="CHTRF95"  shortLabel="CHTRF95(3D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4935"  label="EST97"  shortLabel="EST97(3D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::32237"  label="World Geodetic System 72 / UTM zone 37N"  shortLabel="EPSG:32237(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::21781"  label="CH1903 / LV03"  shortLabel="EPSG:21781(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3126"  label="ETRS89 / ETRS-GK19FIN"  shortLabel="EPSG:3126(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::32236"  label="World Geodetic System 72 / UTM zone 36N"  shortLabel="EPSG:32236(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::21780"  label="Bern 1898 (Bern) / LV03C"  shortLabel="EPSG:21780(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3127"  label="ETRS89 / ETRS-GK20FIN"  shortLabel="EPSG:3127(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::32235"  label="World Geodetic System 72 / UTM zone 35N"  shortLabel="EPSG:32235(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4184"  label="Azores Oriental 1940"  shortLabel="EPSG:4184(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::32234"  label="World Geodetic System 72 / UTM zone 34N"  shortLabel="EPSG:32234(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::22300"  label="Carthage (Paris) / Tunisia Mining Grid"  shortLabel="EPSG:22300(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4183"  label="Azores Central 1948"  shortLabel="EPSG:4183(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::32233"  label="World Geodetic System 72 / UTM zone 33N"  shortLabel="EPSG:32233(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::32232"  label="World Geodetic System 72 / UTM zone 32N"  shortLabel="EPSG:32232(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::32231"  label="World Geodetic System 72 / UTM zone 31N"  shortLabel="EPSG:32231(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3128"  label="ETRS89 / ETRS-GK21FIN"  shortLabel="EPSG:3128(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4188"  label="OSNI 1952"  shortLabel="OSNI 1952(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::32230"  label="World Geodetic System 72 / UTM zone 30N"  shortLabel="EPSG:32230(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3129"  label="ETRS89 / ETRS-GK22FIN"  shortLabel="EPSG:3129(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2169"  label="Luxembourg 1930 / Gauss"  shortLabel="EPSG:2169(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::28991"  label="Amersfoort / RD Old"  shortLabel="EPSG:28991(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3029"  label="RT38 2.5 gon O"  shortLabel="EPSG:3029(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3027"  label="RT38 2.5 gon V"  shortLabel="EPSG:3027(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3028"  label="RT38 0 gon"  shortLabel="RT38 0 gon(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4181"  label="Luxembourg 1930"  shortLabel="EPSG:4181(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::32239"  label="World Geodetic System 72 / UTM zone 39N"  shortLabel="EPSG:32239(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3025"  label="RT38 7.5 gon V"  shortLabel="EPSG:3025(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::28992"  label="Amersfoort / RD New"  shortLabel="EPSG:28992(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4180"  label="EST97"  shortLabel="EST97(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::32238"  label="World Geodetic System 72 / UTM zone 38N"  shortLabel="EPSG:32238(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3026"  label="RT38 5 gon V"  shortLabel="EPSG:3026(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3035"  label="ETRS89 / ETRS-LAEA"  shortLabel="EPSG:3035(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3034"  label="ETRS89 / ETRS-LCC"  shortLabel="EPSG:3034(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4949"  label="LKS92"  shortLabel="LKS92(3D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3030"  label="RT38 5 gon O"  shortLabel="EPSG:3030(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4803"  label="Lisbon (Lisbon)"  shortLabel="EPSG:4803(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4801"  label="Bern 1898 (Bern)"  shortLabel="EPSG:4801(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4945"  label="ISN93"  shortLabel="ISN93(3D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3130"  label="ETRS89 / ETRS-GK23FIN"  shortLabel="EPSG:3130(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4806"  label="Monte Mario (Rome)"  shortLabel="EPSG:4806(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2174"  label="Pulkovo 1942(58) / Poland zone IV"  shortLabel="EPSG:2174(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4807"  label="NTF (Paris)"  shortLabel="NTF(Paris)(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2175"  label="Pulkovo 1942(58) / Poland zone V"  shortLabel="EPSG:2175(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4943"  label="IRENET95"  shortLabel="IRENET95(3D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2176"  label="ETRS89 / Poland CS2000 zone 5"  shortLabel="EPSG:2176(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4019"  label="NORTH AMERICAN 1983 (GEODETIC REF. SYST. GRS80)"  shortLabel="GRS80(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2177"  label="ETRS89 / Poland CS2000 zone 6"  shortLabel="EPSG:2177(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4805"  label="MGI (Ferro)"  shortLabel="MGI(Ferro)(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3134"  label="ETRS89 / ETRS-GK27FIN"  shortLabel="EPSG:3134(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2170"  label="MGI / Slovenia Grid"  shortLabel="EPSG:2170(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3133"  label="ETRS89 / ETRS-GK26FIN"  shortLabel="EPSG:3133(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3132"  label="ETRS89 / ETRS-GK25FIN"  shortLabel="EPSG:3132(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2172"  label="Pulkovo 1942(58) / Poland zone II"  shortLabel="EPSG:2172(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3131"  label="ETRS89 / ETRS-GK24FIN"  shortLabel="EPSG:3131(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4809"  label="Belge 1950 (Brussels)"  shortLabel="EPSG:4809(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2173"  label="Pulkovo 1942(58) / Poland zone III"  shortLabel="EPSG:2173(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4173"  label="IRENET95"  shortLabel="IRENET95(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::32437"  label="World Geodetic System 72BE / UTM zone 37N"  shortLabel="EPSG:32437(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::32436"  label="World Geodetic System 72BE / UTM zone 36N"  shortLabel="EPSG:32436(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::32439"  label="World Geodetic System 72BE / UTM zone 39N"  shortLabel="EPSG:32439(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2179"  label="ETRS89 / Poland CS2000 zone 8"  shortLabel="EPSG:2179(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2636"  label="Pulkovo 1942 / 3-degree Gauss-Kruger CM 180E"  shortLabel="EPSG:2636(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4179"  label="Pulkovo 1942(58)"  shortLabel="EPSG:4179(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::32438"  label="World Geodetic System 72BE / UTM zone 38N"  shortLabel="EPSG:32438(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2178"  label="ETRS89 / Poland CS2000 zone 7"  shortLabel="EPSG:2178(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4178"  label="Pulkovo 1942(83)"  shortLabel="EPSG:4178(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3018"  label="SWEREF99 23 15"  shortLabel="EPSG:3018(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::32432"  label="World Geodetic System 72BE / UTM zone 32N"  shortLabel="EPSG:32432(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3019"  label="RT90 7.5 gon V"  shortLabel="EPSG:3019(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::32435"  label="World Geodetic System 72BE / UTM zone 35N"  shortLabel="EPSG:32435(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3014"  label="SWEREF99 17 15"  shortLabel="EPSG:3014(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3015"  label="SWEREF99 18 45"  shortLabel="EPSG:3015(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2088"  label="Carthage / TM 11 NE"  shortLabel="EPSG:2088(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::32431"  label="World Geodetic System 72BE / UTM zone 31N"  shortLabel="EPSG:32431(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3016"  label="SWEREF99 20 15"  shortLabel="EPSG:3016(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4171"  label="RGF93"  shortLabel="RGF93(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3328"  label="Pulkovo 1942(58) / GUGiK-80"  shortLabel="EPSG:3328(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::32430"  label="World Geodetic System 72BE / UTM zone 30N"  shortLabel="EPSG:32430(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3017"  label="SWEREF99 21 45"  shortLabel="EPSG:3017(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3329"  label="Pulkovo 1942(58) / 3-degree Gauss-Kruger zone 5"  shortLabel="EPSG:3329(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::32630"  label="World Geodetic System 84 / UTM zone 30N"  shortLabel="EPSG:32630(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3022"  label="RT90 0 gon"  shortLabel="RT90 0 gon(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::32631"  label="World Geodetic System 84 / UTM zone 31N"  shortLabel="EPSG:32631(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3021"  label="RT90 2.5 gon V"  shortLabel="EPSG:3021(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2180"  label="ETRS89 / Poland CS92"  shortLabel="EPSG:2180(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::32632"  label="World Geodetic System 84 / UTM zone 32N"  shortLabel="EPSG:32632(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3024"  label="RT90 5 gon O"  shortLabel="EPSG:3024(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::32633"  label="World Geodetic System 84 / UTM zone 33N"  shortLabel="EPSG:32633(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3023"  label="RT90 2.5 gon O"  shortLabel="EPSG:3023(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4811"  label="Voirol 1875 (Paris)"  shortLabel="EPSG:4811(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3330"  label="Pulkovo 1942(58) / 3-degree Gauss-Kruger zone 6"  shortLabel="EPSG:3330(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3020"  label="RT90 5 gon V"  shortLabel="EPSG:3020(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3332"  label="Pulkovo 1942(58) / 3-degree Gauss-Kruger zone 8"  shortLabel="EPSG:3332(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4814"  label="RT38 (Stockholm)"  shortLabel="EPSG:4814(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3331"  label="Pulkovo 1942(58) / 3-degree Gauss-Kruger zone 7"  shortLabel="EPSG:3331(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::32638"  label="World Geodetic System 84 / UTM zone 38N"  shortLabel="EPSG:32638(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4815"  label="Greek (Athens)"  shortLabel="EPSG:4815(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::32639"  label="World Geodetic System 84 / UTM zone 39N"  shortLabel="EPSG:32639(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4816"  label="Carthage (Paris)"  shortLabel="EPSG:4816(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4817"  label="NGO 1948 (Oslo)"  shortLabel="EPSG:4817(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4818"  label="S-JTSK (Ferro)"  shortLabel="EPSG:4818(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::32634"  label="World Geodetic System 84 / UTM zone 34N"  shortLabel="EPSG:32634(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::32635"  label="World Geodetic System 84 / UTM zone 35N"  shortLabel="EPSG:32635(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4951"  label="LKS94"  shortLabel="LKS94(3D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3120"  label="Pulkovo 1942(58) / Poland zone I"  shortLabel="EPSG:3120(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::32636"  label="World Geodetic System 84 / UTM zone 36N"  shortLabel="EPSG:32636(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::32637"  label="World Geodetic System 84 / UTM zone 37N"  shortLabel="EPSG:32637(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3049"  label="ETRS89 / ETRS-TM37"  shortLabel="EPSG:3049(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3048"  label="ETRS89 / ETRS-TM36"  shortLabel="EPSG:3048(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3047"  label="ETRS89 / ETRS-TM35"  shortLabel="EPSG:3047(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2056"  label="CH1903+ / LV95"  shortLabel="EPSG:2056(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2701"  label="Pulkovo 1995 / 3-degree Gauss-Kruger CM 27E"  shortLabel="EPSG:2701(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2702"  label="Pulkovo 1995 / 3-degree Gauss-Kruger CM 30E"  shortLabel="EPSG:2702(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2700"  label="Pulkovo 1995 / 3-degree Gauss-Kruger CM 24E"  shortLabel="EPSG:2700(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2189"  label="Azores Central 1948 / UTM zone 26N"  shortLabel="EPSG:2189(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2705"  label="Pulkovo 1995 / 3-degree Gauss-Kruger CM 39E"  shortLabel="EPSG:2705(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2706"  label="Pulkovo 1995 / 3-degree Gauss-Kruger CM 42E"  shortLabel="EPSG:2706(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2703"  label="Pulkovo 1995 / 3-degree Gauss-Kruger CM 33E"  shortLabel="EPSG:2703(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2704"  label="Pulkovo 1995 / 3-degree Gauss-Kruger CM 36E"  shortLabel="EPSG:2704(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2709"  label="Pulkovo 1995 / 3-degree Gauss-Kruger CM 51E"  shortLabel="EPSG:2709(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2707"  label="Pulkovo 1995 / 3-degree Gauss-Kruger CM 45E"  shortLabel="EPSG:2707(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2708"  label="Pulkovo 1995 / 3-degree Gauss-Kruger CM 48E"  shortLabel="EPSG:2708(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2192"  label="ED50 / France EuroLambert"  shortLabel="EPSG:2192(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2197"  label="ETRS89 / Kp2000 Zealand"  shortLabel="EPSG:2197(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2196"  label="ETRS89 / Kp2000 Jutland"  shortLabel="EPSG:2196(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2198"  label="ETRS89 / Kp2000 Bornholm"  shortLabel="EPSG:2198(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::32662"  label="World Geodetic System 84 / Plate Carree"  shortLabel="EPSG:32662(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3052"  label="Reykjavik 1900 / Lambert 1900"  shortLabel="EPSG:3052(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::32661"  label="World Geodetic System 84 / UPS North"  shortLabel="EPSG:32661(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3053"  label="Hjorsey 1955 / Lambert 1955"  shortLabel="EPSG:3053(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3050"  label="ETRS89 / ETRS-TM38"  shortLabel="EPSG:3050(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3051"  label="ETRS89 / ETRS-TM39"  shortLabel="EPSG:3051(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3056"  label="Hjorsey 1955 / UTM zone 28N"  shortLabel="EPSG:3056(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3057"  label="ISN93 / Lambert 1993"  shortLabel="EPSG:3057(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3054"  label="Hjorsey 1955 / UTM zone 26N"  shortLabel="EPSG:3054(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3055"  label="Hjorsey 1955 / UTM zone 27N"  shortLabel="EPSG:3055(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2190"  label="Azores Oriental 1940 / UTM zone 26N"  shortLabel="EPSG:2190(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3039"  label="ETRS89 / ETRS-TM27"  shortLabel="EPSG:3039(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3307"  label="Nakhl-e Ghanem / UTM zone 39N"  shortLabel="EPSG:3307(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2065"  label="S-JTSK (Ferro) / Krovak"  shortLabel="EPSG:2065(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3038"  label="ETRS89 / ETRS-TM26"  shortLabel="EPSG:3038(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3301"  label="Estonian Coordinate System of 1997"  shortLabel="EPSG:3301(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2062"  label="Madrid 1870 (Madrid) / Spain"  shortLabel="EPSG:2062(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3300"  label="Estonian Coordinate System of 1992"  shortLabel="EPSG:3300(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3040"  label="ETRS89 / ETRS-TM28"  shortLabel="EPSG:3040(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3041"  label="ETRS89 / ETRS-TM29"  shortLabel="EPSG:3041(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3042"  label="ETRS89 / ETRS-TM30"  shortLabel="EPSG:3042(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3043"  label="ETRS89 / ETRS-TM31"  shortLabel="EPSG:3043(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3044"  label="ETRS89 / ETRS-TM32"  shortLabel="EPSG:3044(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3045"  label="ETRS89 / ETRS-TM33"  shortLabel="EPSG:3045(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2058"  label="ED50(ED77) / UTM zone 38N"  shortLabel="EPSG:2058(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2057"  label="Rassadiran / Nakhl e Taqi"  shortLabel="EPSG:2057(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3046"  label="ETRS89 / ETRS-TM34"  shortLabel="EPSG:3046(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2938"  label="Pulkovo 1942 / CS63 zone A4"  shortLabel="EPSG:2938(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2939"  label="Pulkovo 1942 / CS63 zone K2"  shortLabel="EPSG:2939(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2936"  label="Pulkovo 1942 / CS63 zone A2"  shortLabel="EPSG:2936(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2937"  label="Pulkovo 1942 / CS63 zone A3"  shortLabel="EPSG:2937(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4706"  label="Egypt Gulf of Suez S-650 TL"  shortLabel="EPSG:4706(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2935"  label="Pulkovo 1942 / CS63 zone A1"  shortLabel="EPSG:2935(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3173"  label="fk89 / Faroe Lambert FK89"  shortLabel="EPSG:3173(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4902"  label="NDG (Paris)"  shortLabel="NDG(Paris)(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4901"  label="ATF (Paris)"  shortLabel="ATF(Paris)(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2529"  label="Pulkovo 1942 / 3-degree Gauss-Kruger zone 13"  shortLabel="EPSG:2529(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2528"  label="Pulkovo 1942 / 3-degree Gauss-Kruger zone 12"  shortLabel="EPSG:2528(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2527"  label="Pulkovo 1942 / 3-degree Gauss-Kruger zone 11"  shortLabel="EPSG:2527(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2526"  label="Pulkovo 1942 / 3-degree Gauss-Kruger zone 10"  shortLabel="EPSG:2526(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2525"  label="Pulkovo 1942 / 3-degree Gauss-Kruger zone 9"  shortLabel="EPSG:2525(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2524"  label="Pulkovo 1942 / 3-degree Gauss-Kruger zone 8"  shortLabel="EPSG:2524(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2523"  label="Pulkovo 1942 / 3-degree Gauss-Kruger zone 7"  shortLabel="EPSG:2523(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4904"  label="Lisbon 1890 (Lisbon)"  shortLabel="EPSG:4904(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4903"  label="Madrid 1870 (Madrid)"  shortLabel="EPSG:4903(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3059"  label="LKS92 / Latvia TM"  shortLabel="EPSG:3059(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3058"  label="Helle 1954 / Jan Mayen Grid"  shortLabel="EPSG:3058(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::22332"  label="Carthage / UTM zone 32N"  shortLabel="EPSG:22332(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3065"  label="IGM95 / UTM zone 33N"  shortLabel="EPSG:3065(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3066"  label="ED50 / Jordan TM"  shortLabel="EPSG:3066(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3067"  label="ETRS89 / ETRS-TM35FIN"  shortLabel="EPSG:3067(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3068"  label="DHDN / Soldner Berlin"  shortLabel="EPSG:3068(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3061"  label="Porto Santo 1995 / UTM zone 28N"  shortLabel="EPSG:3061(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2531"  label="Pulkovo 1942 / 3-degree Gauss-Kruger zone 15"  shortLabel="EPSG:2531(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3062"  label="Azores Oriental 1995 / UTM zone 26N"  shortLabel="EPSG:3062(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2530"  label="Pulkovo 1942 / 3-degree Gauss-Kruger zone 14"  shortLabel="EPSG:2530(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::3063"  label="Azores Central 1995 / UTM zone 26N"  shortLabel="EPSG:3063(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2533"  label="Pulkovo 1942 / 3-degree Gauss-Kruger zone 17"  shortLabel="EPSG:2533(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2039"  label="Israel / Israeli TM Grid"  shortLabel="EPSG:2039(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2532"  label="Pulkovo 1942 / 3-degree Gauss-Kruger zone 16"  shortLabel="EPSG:2532(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::22770"  label="Deir ez Zor / Syria Lambert"  shortLabel="EPSG:22770(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4207"  label="Lisbon"  shortLabel="Lisbon(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::31839"  label="NGN / UTM zone 39N"  shortLabel="EPSG:31839(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4616"  label="Selvagem Grande"  shortLabel="EPSG:4616(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4615"  label="Porto Santo"  shortLabel="Porto Santo(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4619"  label="SWEREF99"  shortLabel="SWEREF99(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4215"  label="Belge 1950"  shortLabel="Belge_1950(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2321"  label="ED50 / TM33"  shortLabel="ED50 / TM33(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2322"  label="ED50 / TM36"  shortLabel="ED50 / TM36(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2323"  label="ED50 / TM39"  shortLabel="ED50 / TM39(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2324"  label="ED50 / TM42"  shortLabel="ED50 / TM42(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2325"  label="ED50 / TM45"  shortLabel="ED50 / TM45(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4120"  label="Greek"  shortLabel="Greek(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4121"  label="GGRS87"  shortLabel="GGRS87(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4124"  label="RT90"  shortLabel="RT90(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4123"  label="KKJ"  shortLabel="KKJ(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4223"  label="Carthage"  shortLabel="Carthage(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::22780"  label="Deir ez Zor / Levant Stereographic"  shortLabel="EPSG:22780(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4227"  label="Deir ez Zor"  shortLabel="Deir ez Zor(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2319"  label="ED50 / TM27"  shortLabel="ED50 / TM27(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::31300"  label="Belge 1972 / Belge Lambert 72"  shortLabel="EPSG:31300(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2320"  label="ED50 / TM30"  shortLabel="ED50 / TM30(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4230"  label="ED50"  shortLabel="ED50(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2463"  label="Pulkovo 1995 / Gauss-Kruger CM 21E"  shortLabel="EPSG:2463(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2462"  label="Albanian 1987 / Gauss-Kruger zone 4"  shortLabel="EPSG:2462(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4231"  label="ED87"  shortLabel="ED87(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4237"  label="HD72"  shortLabel="HD72(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2592"  label="Pulkovo 1942 / 3-degree Gauss-Kruger CM 51E"  shortLabel="EPSG:2592(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2590"  label="Pulkovo 1942 / 3-degree Gauss-Kruger CM 45E"  shortLabel="EPSG:2590(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2591"  label="Pulkovo 1942 / 3-degree Gauss-Kruger CM 48E"  shortLabel="EPSG:2591(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2589"  label="Pulkovo 1942 / 3-degree Gauss-Kruger CM 42E"  shortLabel="EPSG:2589(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2586"  label="Pulkovo 1942 / 3-degree Gauss-Kruger CM 33E"  shortLabel="EPSG:2586(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4624"  label="Guyane RGFG95 Réseau géodésique français de Guyane"  shortLabel="RGFG95(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2585"  label="Pulkovo 1942 / 3-degree Gauss-Kruger CM 30E"  shortLabel="EPSG:2585(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4627"  label="Réunion RGR92 Réseau géodésique de la Réunion"  shortLabel="RGR92(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2588"  label="Pulkovo 1942 / 3-degree Gauss-Kruger CM 39E"  shortLabel="EPSG:2588(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2587"  label="Pulkovo 1942 / 3-degree Gauss-Kruger CM 36E"  shortLabel="EPSG:2587(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::23033"  label="ED50 / UTM zone 33N"  shortLabel="EPSG:23033(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4663"  label="Porto Santo 1995"  shortLabel="EPSG:4663(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4149"  label="CH1903"  shortLabel="CH1903(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::23032"  label="ED50 / UTM zone 32N"  shortLabel="EPSG:23032(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::23031"  label="ED50 / UTM zone 31N"  shortLabel="EPSG:23031(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4661"  label="LKS92"  shortLabel="LKS92(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4660"  label="Helle 1954"  shortLabel="Helle 1954(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::31600"  label="Dealul Piscului 1933/ Stereo 33"  shortLabel="EPSG:31600(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::23030"  label="ED50 / UTM zone 30N"  shortLabel="EPSG:23030(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2584"  label="Pulkovo 1942 / 3-degree Gauss-Kruger CM 27E"  shortLabel="EPSG:2584(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2583"  label="Pulkovo 1942 / 3-degree Gauss-Kruger CM 24E"  shortLabel="EPSG:2583(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::31468"  label="DHDN / Gauss-Kruger zone 4"  shortLabel="EPSG:31468(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2582"  label="Pulkovo 1942 / 3-degree Gauss-Kruger CM 21E"  shortLabel="EPSG:2582(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::31469"  label="DHDN / Gauss-Kruger zone 5"  shortLabel="EPSG:31469(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::31466"  label="DHDN / Gauss-Kruger zone 2"  shortLabel="EPSG:31466(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::31467"  label="DHDN / Gauss-Kruger zone 3"  shortLabel="EPSG:31467(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4753"  label="fk89"  shortLabel="fk89(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4246"  label="KOC"  shortLabel="KOC(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4760"  label="World Geodetic System 66"  shortLabel="EPSG:4760"  date="2011-03-02T15:20:22.000"  />
+   <element  key="SDN:L10::31700"  label="Dealul Piscului 1970/ Stereo 70"  shortLabel="EPSG:31700(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4659"  label="ISN93"  shortLabel="ISN93(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4153"  label="Rassadiran"  shortLabel="Rassadiran(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4657"  label="Reykjavik 1900"  shortLabel="EPSG:4657(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4150"  label="CH1903+"  shortLabel="CH1903+(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::23038"  label="ED50 / UTM zone 38N"  shortLabel="EPSG:23038(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4658"  label="Hjorsey 1955"  shortLabel="EPSG:4658(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4151"  label="CHTRF95"  shortLabel="CHTRF95(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4156"  label="S-JTSK"  shortLabel="S-JTSK(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::23036"  label="ED50 / UTM zone 36N"  shortLabel="EPSG:23036(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::23037"  label="ED50 / UTM zone 37N"  shortLabel="EPSG:23037(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::23034"  label="ED50 / UTM zone 34N"  shortLabel="EPSG:23034(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::23035"  label="ED50 / UTM zone 35N"  shortLabel="EPSG:23035(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4741"  label="FD54"  shortLabel="FD54(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4744"  label="Nahrwan 1934"  shortLabel="EPSG:4744(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4743"  label="Karbala 1979 (Polservice)"  shortLabel="EPSG:4743(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2465"  label="Pulkovo 1995 / Gauss-Kruger CM 33E"  shortLabel="EPSG:2465(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4258"  label="ETRS89"  shortLabel="ETRS89(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::24600"  label="KOC Lambert"  shortLabel="KOC Lambert(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4746"  label="PD/83"  shortLabel="PD/83(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4745"  label="RD/83"  shortLabel="RD/83(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2464"  label="Pulkovo 1995 / Gauss-Kruger CM 27E"  shortLabel="EPSG:2464(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2467"  label="Pulkovo 1995 / Gauss-Kruger CM 45E"  shortLabel="EPSG:2467(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2466"  label="Pulkovo 1995 / Gauss-Kruger CM 39E"  shortLabel="EPSG:2466(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4265"  label="Monte Mario"  shortLabel="Monte Mario(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4261"  label="Merchich"  shortLabel="Merchich(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4263"  label="MINNA (W Africa)"  shortLabel="MINNA(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::31901"  label="KUDAMS / KTM"  shortLabel="EPSG:31901(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::23028"  label="ED50 / UTM zone 28N"  shortLabel="EPSG:23028(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::23029"  label="ED50 / UTM zone 29N"  shortLabel="EPSG:23029(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::28404"  label="Pulkovo 1942 / Gauss-Kruger zone 4"  shortLabel="EPSG:28404(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::28405"  label="Pulkovo 1942 / Gauss-Kruger zone 5"  shortLabel="EPSG:28405(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2498"  label="Pulkovo 1942 / Gauss-Kruger CM 45E"  shortLabel="EPSG:2498(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::28402"  label="Pulkovo 1942 / Gauss-Kruger zone 2"  shortLabel="EPSG:28402(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2497"  label="Pulkovo 1942 / Gauss-Kruger CM 39E"  shortLabel="EPSG:2497(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::28403"  label="Pulkovo 1942 / Gauss-Kruger zone 3"  shortLabel="EPSG:28403(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::28408"  label="Pulkovo 1942 / Gauss-Kruger zone 8"  shortLabel="EPSG:28408(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::28406"  label="Pulkovo 1942 / Gauss-Kruger zone 6"  shortLabel="EPSG:28406(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::28407"  label="Pulkovo 1942 / Gauss-Kruger zone 7"  shortLabel="EPSG:28407(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4273"  label="NGO 1948"  shortLabel="NGO 1948(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4274"  label="Datum 73"  shortLabel="Datum 73(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4740"  label="PZ-90"  shortLabel="PZ-90(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::22391"  label="Carthage / Nord Tunisie"  shortLabel="EPSG:22391(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4277"  label="OSGB 1936"  shortLabel="OSGB 1936(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::22392"  label="Carthage / Sud Tunisie"  shortLabel="EPSG:22392(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4278"  label="OSGB70"  shortLabel="OSGB70(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4275"  label="NTF"  shortLabel="NTF(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2699"  label="Pulkovo 1995 / 3-degree Gauss-Kruger CM 21E"  shortLabel="EPSG:2699(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4276"  label="NSWC 9Z-2"  shortLabel="NSWC 9Z-2(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4132"  label="FD58"  shortLabel="FD58(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4133"  label="EST92"  shortLabel="EST92(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4326"  label="World Geodetic System 84"  shortLabel="WGS 84(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4324"  label="World Geodetic System 72BE"  shortLabel="WGS 72BE(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4670"  label="IGM95"  shortLabel="IGM95(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4728"  label="Pico de la Nieves"  shortLabel="EPSG:4728(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4671"  label="Voirol 1879"  shortLabel="Voirol_1879(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4279"  label="OS(SN)80"  shortLabel="OS(SN)80(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::32600"  label="World Geodetic System 84 / UTM grid system (northern hemisphere)"  shortLabel="EPSG:32600(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4284"  label="Pulkovo 1942"  shortLabel="EPSG:4284(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2492"  label="Pulkovo 1942 / Gauss-Kruger CM 9E"  shortLabel="EPSG:2492(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2493"  label="Pulkovo 1942 / Gauss-Kruger CM 15E"  shortLabel="EPSG:2493(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2494"  label="Pulkovo 1942 / Gauss-Kruger CM 21E"  shortLabel="EPSG:2494(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2495"  label="Pulkovo 1942 / Gauss-Kruger CM 27E"  shortLabel="EPSG:2495(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4289"  label="Amersfoort"  shortLabel="Amersfoort(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2496"  label="Pulkovo 1942 / Gauss-Kruger CM 33E"  shortLabel="EPSG:2496(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4664"  label="Azores Oriental 1995"  shortLabel="EPSG:4664(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4665"  label="Azores Central 1995"  shortLabel="EPSG:4665(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4666"  label="Lisbon 1890"  shortLabel="Lisbon 1890(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4667"  label="IKBD-92"  shortLabel="IKBD-92(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::31838"  label="NGN / UTM zone 38N"  shortLabel="EPSG:31838(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4668"  label="ED79"  shortLabel="ED79(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4669"  label="LKS94"  shortLabel="LKS94(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4141"  label="Israel"  shortLabel="Israel(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4281"  label="Palestine 1923"  shortLabel="EPSG:4281(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4304"  label="Voirol 1875"  shortLabel="Voirol_1875(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4306"  label="Bern 1938"  shortLabel="Bern 1938(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4308"  label="RT38"  shortLabel="RT38(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4307"  label="Nord Sahara 1959"  shortLabel="EPSG:4307(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::7400"  label="NTF (Paris) + NGF IGN69"  shortLabel="EPSG:7400(CD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::25829"  label="ETRS89 / UTM zone 29N"  shortLabel="EPSG:25829(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::25828"  label="ETRS89 / UTM zone 28N"  shortLabel="EPSG:25828(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4314"  label="DHDN"  shortLabel="DHDN(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4313"  label="Belge 1972"  shortLabel="Belge_1972(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4312"  label="MGI"  shortLabel="MGI(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::31370"  label="Belge 1972 / Belgian Lambert 72"  shortLabel="EPSG:31370(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4319"  label="KUDAMS"  shortLabel="KUDAMS(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4318"  label="NGN"  shortLabel="NGN(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4317"  label="Dealul Piscului 1970"  shortLabel="EPSG:4317(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4316"  label="Dealul Piscului 1933"  shortLabel="EPSG:4316(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::7409"  label="ETRS89 + EVRF2000"  shortLabel="EPSG:7409(CD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::7405"  label="OSGB36 / British National Grid + ODN"  shortLabel="EPSG:7405(CD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::7404"  label="RT90 + RH70"  shortLabel="RT90 + RH70(CD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::7413"  label="NTF (Paris) / Lambert zone III + NGF IGN69"  shortLabel="EPSG:7413(CD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::7412"  label="NTF (Paris) / Lambert zone II + NGF IGN69"  shortLabel="EPSG:7412(CD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::7411"  label="NTF (Paris) / Lambert zone II + NGF Lallemand"  shortLabel="EPSG:7411(CD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::25836"  label="ETRS89 / UTM zone 36N"  shortLabel="EPSG:25836(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::25837"  label="ETRS89 / UTM zone 37N"  shortLabel="EPSG:25837(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::25838"  label="ETRS89 / UTM zone 38N"  shortLabel="EPSG:25838(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::22700"  label="Deir ez Zor / Levant Zone"  shortLabel="EPSG:22700(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::25832"  label="ETRS89 / UTM zone 32N"  shortLabel="EPSG:25832(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::25833"  label="ETRS89 / UTM zone 33N"  shortLabel="EPSG:25833(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::25834"  label="ETRS89 / UTM zone 34N"  shortLabel="EPSG:25834(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4693"  label="Nakhl-e Ghanem"  shortLabel="EPSG:4693(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::25835"  label="ETRS89 / UTM zone 35N"  shortLabel="EPSG:25835(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4322"  label="World Geodetic System 72"  shortLabel="WGS 72(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::25830"  label="ETRS89 / UTM zone 30N"  shortLabel="EPSG:25830(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::25831"  label="ETRS89 / UTM zone 31N"  shortLabel="EPSG:25831(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::31284"  label="MGI / M28"  shortLabel="MGI_M28(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::7415"  label="Amersfoort / RD New + NAP"  shortLabel="EPSG:7415(CD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::31285"  label="MGI / M31"  shortLabel="MGI_M31(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::31286"  label="MGI / M34"  shortLabel="MGI_M34(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::31287"  label="MGI / Austria Lambert"  shortLabel="EPSG:31287(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::31288"  label="MGI (Ferro) / M28"  shortLabel="EPSG:31288(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::22993"  label="Egypt 1907 / Purple Belt"  shortLabel="EPSG:22993(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::31289"  label="MGI (Ferro) / M31"  shortLabel="EPSG:31289(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::22991"  label="Egypt 1907 / Blue Belt"  shortLabel="EPSG:22991(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::31281"  label="MGI (Ferro) / Austria West Zone"  shortLabel="EPSG:31281(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::23090"  label="ED50 / TM 0 N"  shortLabel="EPSG:23090(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::31283"  label="MGI (Ferro) / Austria East Zone"  shortLabel="EPSG:31283(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::31282"  label="MGI (Ferro) / Austria Central Zone"  shortLabel="EPSG:31282(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::23095"  label="ED50 / TM 5 NE"  shortLabel="EPSG:23095(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2398"  label="Pulkovo 1942(83) / Gauss-Kruger zone 4"  shortLabel="EPSG:2398(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2399"  label="Pulkovo 1942(83) / Gauss-Kruger zone 5"  shortLabel="EPSG:2399(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2397"  label="Pulkovo 1942(83) / Gauss-Kruger zone 3"  shortLabel="EPSG:2397(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2394"  label="KKJ / Finland zone 4"  shortLabel="EPSG:2394(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2393"  label="KKJ / Finland Uniform Coordinate System"  shortLabel="EPSG:2393(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2392"  label="KKJ / Finland zone 2"  shortLabel="EPSG:2392(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::2391"  label="KKJ / Finland zone 1"  shortLabel="EPSG:2391(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::26740"  label="NAD27 / Alaska zone 10"  shortLabel="EPSG:26740(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::31290"  label="MGI (Ferro) / M34"  shortLabel="EPSG:31290(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::4300"  label="TM75"  shortLabel="TM75(2D)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::31279"  label="MGI / Balkans zone 8"  shortLabel="EPSG:31279(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::31277"  label="MGI / Balkans zone 7"  shortLabel="EPSG:31277(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::31276"  label="MGI / Balkans zone 6"  shortLabel="EPSG:31276(PD)"  date="2007-02-09T09:21:29.000"  />
+   <element  key="SDN:L10::31275"  label="MGI / Balkans zone 5"  shortLabel="EPSG:31275(PD)"  date="2007-02-09T09:21:29.000"  />
+</vocabulary>

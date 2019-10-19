@@ -1,0 +1,1 @@
+﻿INSERT INTO patches (pa, cdi) SELECT PC_Patch (pt), -99 FROM pc_points group by pc_points.id/200;
